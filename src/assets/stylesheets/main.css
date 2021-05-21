@@ -1,0 +1,12 @@
+@import './home.css';
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.nav-bar-link {
+    text-decoration: none;
+    color: rbg(220, 20, 60);
+    font-weight: bold;
+}
+
+.siteLogo {
+    font-family: 'Pacifico', cursive;
+}
